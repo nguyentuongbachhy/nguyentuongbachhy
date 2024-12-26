@@ -4,7 +4,7 @@
 <div style="padding: 20px; display: flex; flex-direction: column; gap: 15px;">
  <!-- Profile Info -->
  <div style="background-color: #1a1b27; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-   <p align="left"><img src="https://komarev.com/ghpvc/?username=prorain-hcmus&label=Profile%20views&color=0e75b6&style=flat" alt="prorain-hcmus" /></p>
+   <p align="left"><img src="https://komarev.com/ghpvc/?username=nguyentuongbachhy&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentuongbachhy" /></p>
    <p style="color: #a9b1d6; margin: 10px 0;">🔭 Currently working on <strong style="color: #7aa2f7">Web, Mobile, NLP</strong></p>
    <p style="color: #a9b1d6; margin: 10px 0;">🌱 Studying <strong style="color: #7aa2f7">Artificial Intelligence</strong> at HCMUS</p>
    <p style="color: #a9b1d6; margin: 10px 0;">👨‍💻 Projects: <a href="https://github.com/nguyentuongbachhy" style="color: #7aa2f7; text-decoration: none;">github.com/nguyentuongbachhy</a></p>
