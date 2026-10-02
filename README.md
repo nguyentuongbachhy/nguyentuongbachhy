@@ -76,7 +76,7 @@ I currently serve as **Software Team Lead at ML&IoT Lab**, leading a 10-person t
 
 **Accepted to the Main Track of ACM RecSys 2026**
 
-Nguyen Tuong Bach Hy, Le Hoang Vu, Le Hoai Bac
+Le Hoang Vu*, Nguyen Tuong Bach Hy*, Le Hoai Bac
 
 CONGA combines multi-stream representations and associative memory to model both short-term and long-term user preferences.
 
