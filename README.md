@@ -2,15 +2,15 @@
 
 # Nguyen Tuong Bach Hy
 
-### AI Engineer · Recommender Systems Researcher · Backend Developer
+### AI Engineer · Backend Engineer · Recommender Systems Researcher
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+production-ready+AI+systems;Researching+efficient+recommender+architectures;Optimizing+AI+from+algorithms+to+infrastructure"
-alt="Introduction"
-/>
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+reliable+AI+and+backend+systems;Engineering+high-performance+distributed+services;Researching+efficient+recommender+architectures"
+  alt="Introduction"
+  />
 
 <a href="https://linkedin.com/in/nguyentuongbachhy">
-  <img src="https://img.shields.io/badge/LinkedIn-Nguyen%20Tuong%20Bach%20Hy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:nguyentuongbachhy.phuong1@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
@@ -25,68 +25,63 @@ alt="Introduction"
 
 ## About Me
 
-I am an **Artificial Intelligence undergraduate** at the **University of Science, VNU-HCM**, with experience building and deploying production AI systems using **Python, Go, and Rust**.
+I am a **B.Sc. candidate in Artificial Intelligence** at **VNU-HCM University of Science** (expected graduation: November 2026). I work at the intersection of **AI engineering, backend systems, and applied research**, building reliable services and optimizing their performance from algorithms to infrastructure.
 
-My work lies at the intersection of **AI research** and **systems engineering**, with a focus on:
+I am currently an **Associate AI Engineer at ELCA Vietnam** and **Software Team Lead at ML&IoT Lab, HCMUT**, where I lead a 10-member development team.
 
-* Large language models, RAG, and agentic workflows
-* Sequential and long-history recommender systems
-* CUDA kernels and efficient neural architectures
-* High-performance backend and distributed AI systems
-* Data processing and cloud deployment
-
-I currently serve as **Software Team Lead at ML&IoT Lab**, leading a 10-person team across AI research, backend engineering, and DevOps.
+My main interests include **LLM applications and retrieval-augmented generation (RAG)**, **sequential recommendation**, **efficient CUDA implementations**, and **high-performance distributed backend systems**.
 
 ---
 
-## Experience
+## Professional Experience
 
-### Software Team Lead - ML&IoT Lab
+### Associate AI Engineer — ELCA Vietnam
+`Aug 2026 – Present` · Full-time
 
-`Dec 2025 - Present`
+- Built a **9-service enterprise policy chatbot** with Clean Architecture, event-driven ingestion, authentication, per-user data isolation, and hybrid retrieval.
+- Reduced OCR **character error rate (CER) from 7.52% to 0.72%**.
+- Achieved **97.0% Node Recall@10**, **78.7% MRR**, **82.9% nDCG**, and **167.7 ms p95 CPU retrieval latency**.
 
-* Lead a 10-person team across AI research, backend development, and DevOps.
-* Review technical proposals and guide algorithm and architecture decisions.
-* Develop and Maintain [mliotlab.com](https://mliotlab.com).
-* Standardize development workflows using Docker, Gitflow, and CI/CD.
+**Tech:** C# (.NET 10), Python, NATS JetStream, SQL Server, Qdrant, MinIO, Docker.
 
-### AI Engineer Intern - Bosch Global Software Technologies
+### Backend Engineer Intern — Bosch Global Software Technologies
+`Jan 2026 – Jul 2026` · Full-time
 
-`Jan 2026 - Jul 2026`
+- Optimized a Rust-based OKR platform to **26,965 RPS** with **500 concurrent clients** and **17.74 ms p99 latency**, while sustaining **1,000 concurrent SSE connections**.
+- Built an event-driven quiz platform achieving **847–1,470 RPS** across benchmarked endpoints with **50 concurrent clients**, asynchronous processing, and SSE streaming.
 
-* Designed and implemented an LLM-based agentic workflow for SPC, Cp, and Cpk quality analysis on Databricks.
-* Reduced prompt token usage by **35%**.
-* Delivered AI solutions from requirement analysis and architecture design to deployment and evaluation.
-* Built memory-efficient AI backend systems for AWS EC2 environments.
+**Tech:** Rust (Axum), PostgreSQL, Redis, Redpanda, Redis Streams, Docker.
 
-### AI Backend Developer - ADTECHNOLOGY
+### Backend Developer — ADTECHNOLOGY (ADSPLUS)
+`Aug 2025 – Jan 2026` · Full-time
 
-`Aug 2025 - Jan 2026`
+- Built a distributed ad-tech platform processing approximately **10,000 search terms per day** for multilingual translation, semantic tagging, and automated job orchestration.
 
-* Built an AI pipeline processing approximately **100,000 search terms per day**.
-* Implemented language detection, translation, intent classification, and tag generation using LLMs.
-* Designed a fallback LLM strategy to improve reliability and control API costs.
-* Developed supporting Go and Rust microservices deployed with Docker.
+**Tech:** Go (Chi), Rust (Axum), gRPC, RabbitMQ, Redis, PostgreSQL, ClickHouse, Docker.
+
+### Software Team Lead — ML&IoT Lab, HCMUT
+`Dec 2025 – Present` · University lab
+
+- Lead a **10-member development team** across architecture, CI/CD, security, and backend engineering.
+- Develop and maintain **[mliotlab.com](https://mliotlab.com)**.
+
+**Tech:** Go (Chi), Rust (Axum), SolidJS, PostgreSQL, Redis Streams, Docker.
 
 ---
 
-## Research
+## Research & Publication
 
 ### CONGA: Continual Neural Gated Architecture for Long-History Sequential Recommendation
 
-**Accepted to the Main Track of ACM RecSys 2026**
+**ACM RecSys 2026 — Main Track**
 
-Le Hoang Vu*, Nguyen Tuong Bach Hy*, Le Hoai Bac
+Le Hoang Vu*, **Nguyen Tuong Bach Hy***, Le Hoai Bac
 
-CONGA combines multi-stream representations and associative memory to model both short-term and long-term user preferences.
+- Co-developed the **model architecture** for long-history sequential recommendation.
+- Implemented **custom CUDA kernels** for efficient model execution.
+- Built **reproducible evaluation pipelines** for large-scale sequential recommendation experiments.
 
-Key contributions:
-
-* Developed continual neural components for long-history sequential recommendation.
-* Designed custom CUDA kernels that fuse RMSNorm, linear projection, and Sinkhorn operations.
-* Applied warp-level and block-level reductions to improve GPU utilization and memory efficiency.
-* Built reproducible full-ranking evaluation pipelines.
-* Conducted experiments and ablation studies on MovieLens-1M, Yelp, Steam, and Amazon Beauty.
+<sub>* Equal contribution.</sub>
 
 ---
 
@@ -94,62 +89,63 @@ Key contributions:
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,go,rust" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,go,rust,cs" alt="Python, Go, Rust, C#"/>
 
-### AI and Data
+### AI & Research
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI Technologies"/>
+<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/>
 
-`Machine Learning` · `Deep Learning` · `LLMs`
-`Generative AI` · `RAG` · `Recommender Systems` · `LangGraph`
-`NumPy` · `Pandas` · `Polars` · `Databricks`
+`LLMs` · `RAG` · `Hybrid Retrieval` · `Recommender Systems` · `CUDA`
 
-### Backend and Infrastructure
+### Backend & Distributed Systems
 
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,githubactions" alt="Backend and Infrastructure"/>
+`ASP.NET Core` · `Axum` · `Chi` · `gRPC` · `Clean Architecture`
 
-`Microservices` · `RESTful APIs` · `Clean Architecture`
+`NATS JetStream` · `Redis Streams` · `Redpanda` · `RabbitMQ` · `SSE`
+
+### Data & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git,githubactions" alt="PostgreSQL, Redis, Docker, Linux, Git, GitHub Actions"/>
+
+`SQL Server` · `ClickHouse` · `Qdrant` · `MinIO` · `CI/CD`
 
 </div>
 
 ---
 
-## Awards and Achievements
+## Awards & Achievements
 
-### National Champion - ActInSpace 2026 Vietnam
+### National Champion — ActInSpace 2026 Vietnam
 
-* Backend Lead of **Bio-Radar**, the winning project at ActInSpace Vietnam.
-* Selected to represent Vietnam at the International Finale in Bordeaux, France.
-* The international hackathon is organized by CNES, ESA, and Airbus.
+- **1st Place** as Backend Lead of **Bio-Radar** (January 2026).
+- Selected to represent Vietnam at the **International Finale in Bordeaux, France**.
 
-### Mathematics Olympiad
+### Mathematics Olympiads
 
-* Gold Medal - April 30th Mathematics Olympiad
-* First Prize - Provincial Mathematics Excellent Student Competition
-* Consolation Prize - National Mathematics Olympiad for Students
+- **Gold Medal** — April 30th Mathematics Olympiad.
+- **Consolation Prize** — Vietnamese Mathematical Olympiad.
 
 ---
 
 ## Education
 
-### University of Science, VNU-HCM
+### VNU-HCM University of Science
 
-**Undergraduate in Artificial Intelligence**
-`2022 - 2026` · GPA: `3.49/4.0`
+**B.Sc. in Artificial Intelligence** · `2022 – Expected Nov 2026`
+
+GPA: **3.38/4.0**
 
 ### Bac Lieu High School for the Gifted
 
-**Mathematics Specialized Program**
-`2019 - 2022`
+**Mathematics Specialized Program** · `2019 – 2022`
 
 ---
 
 ## Languages
 
-* Japanese - JLPT N3
-* English - B1
+- **Japanese:** JLPT N3
 
 ---
 
@@ -157,7 +153,8 @@ Key contributions:
 
 ### Current Interests
 
-`Efficient AI Systems` · `Recommender Systems` · `LLM Applications`
-`CUDA Optimization` · `Go and Rust Backends`
+`Efficient AI Systems` · `Distributed Systems` · `Recommender Systems`
+
+`CUDA Optimization` · `Go & Rust Backends`
 
 </div>
