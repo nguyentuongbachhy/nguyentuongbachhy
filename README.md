@@ -160,8 +160,4 @@ Key contributions:
 `Efficient AI Systems` · `Recommender Systems` · `LLM Applications`
 `CUDA Optimization` · `Go and Rust Backends`
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nguyentuongbachhy&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views"/>
-
 </div>
