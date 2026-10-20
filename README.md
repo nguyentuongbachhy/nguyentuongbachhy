@@ -101,7 +101,7 @@ Le Hoang Vu*, **Nguyen Tuong Bach Hy***, Le Hoai Bac
 
 ### Backend & Distributed Systems
 
-`ASP.NET Core` · `Axum` · `Chi` · `gRPC` · `Clean Architecture`
+`.NET 10` · `Axum` · `Chi` · `gRPC` · `Clean Architecture`
 
 `NATS JetStream` · `Redis Streams` · `Redpanda` · `RabbitMQ` · `SSE`
 
