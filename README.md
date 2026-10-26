@@ -35,7 +35,7 @@ My main interests include **LLM applications and retrieval-augmented generation 
 
 ## Professional Experience
 
-### Associate AI Engineer — ELCA Vietnam
+### Associate AI Engineer - ELCA Vietnam
 `Aug 2026 – Present` · Full-time
 
 - Built a **9-service enterprise policy chatbot** with Clean Architecture, event-driven ingestion, authentication, per-user data isolation, and hybrid retrieval.
@@ -44,7 +44,7 @@ My main interests include **LLM applications and retrieval-augmented generation 
 
 **Tech:** C# (.NET 10), Python, NATS JetStream, SQL Server, Qdrant, MinIO, Docker.
 
-### Backend Engineer Intern — Bosch Global Software Technologies
+### Backend Engineer Intern - Bosch Global Software Technologies
 `Jan 2026 – Jul 2026` · Full-time
 
 - Optimized a Rust-based OKR platform to **26,965 RPS** with **500 concurrent clients** and **17.74 ms p99 latency**, while sustaining **1,000 concurrent SSE connections**.
@@ -52,14 +52,14 @@ My main interests include **LLM applications and retrieval-augmented generation 
 
 **Tech:** Rust (Axum), PostgreSQL, Redis, Redpanda, Redis Streams, Docker.
 
-### Backend Developer — ADTECHNOLOGY (ADSPLUS)
+### Backend Developer - ADTECHNOLOGY (ADSPLUS)
 `Aug 2025 – Jan 2026` · Full-time
 
 - Built a distributed ad-tech platform processing approximately **10,000 search terms per day** for multilingual translation, semantic tagging, and automated job orchestration.
 
 **Tech:** Go (Chi), Rust (Axum), gRPC, RabbitMQ, Redis, PostgreSQL, ClickHouse, Docker.
 
-### Software Team Lead — ML&IoT Lab, HCMUT
+### Software Team Lead - ML&IoT Lab, HCMUT
 `Dec 2025 – Present` · University lab
 
 - Lead a **10-member development team** across architecture, CI/CD, security, and backend engineering.
@@ -73,7 +73,7 @@ My main interests include **LLM applications and retrieval-augmented generation 
 
 ### CONGA: Continual Neural Gated Architecture for Long-History Sequential Recommendation
 
-**ACM RecSys 2026 — Main Track**
+**ACM RecSys 2026 - Main Track**
 
 Le Hoang Vu*, **Nguyen Tuong Bach Hy***, Le Hoai Bac
 
@@ -85,44 +85,14 @@ Le Hoang Vu*, **Nguyen Tuong Bach Hy***, Le Hoai Bac
 
 ---
 
-## Technical Stack
-
-<div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,go,rust,cs" alt="Python, Go, Rust, C#"/>
-
-### AI & Research
-
-<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/>
-
-`LLMs` · `RAG` · `Hybrid Retrieval` · `Recommender Systems` · `CUDA`
-
-### Backend & Distributed Systems
-
-`.NET 10` · `Axum` · `Chi` · `gRPC` · `Clean Architecture`
-
-`NATS JetStream` · `Redis Streams` · `Redpanda` · `RabbitMQ` · `SSE`
-
-### Data & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git,githubactions" alt="PostgreSQL, Redis, Docker, Linux, Git, GitHub Actions"/>
-
-`SQL Server` · `ClickHouse` · `Qdrant` · `MinIO` · `CI/CD`
-
-</div>
-
----
-
 ## Awards & Achievements
 
-### National Champion — ActInSpace 2026 Vietnam
+### National Champion - ActInSpace 2026 Vietnam
 
 - **1st Place** as Backend Lead of **Bio-Radar** (January 2026).
 - Selected to represent Vietnam at the **International Finale in Bordeaux, France**.
 
 ### Mathematics Olympiads
 
-- **Gold Medal** — April 30th Mathematics Olympiad.
-- **Consolation Prize** — Vietnamese Mathematical Olympiad.
+- **Gold Medal** - April 30th Mathematics Olympiad.
+- **Consolation Prize** - Vietnamese Mathematical Olympiad.
