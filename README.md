@@ -16,9 +16,6 @@
 <a href="mailto:nguyentuongbachhy.phuong1@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/nguyentuongbachhy">
-  <img src="https://img.shields.io/badge/GitHub-nguyentuongbachhy-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 
 </div>
 
@@ -42,7 +39,7 @@ I enjoy exploring how systems work under the hood, from algorithms and database 
 
 ## Highlights
 
-**Research · ACM RecSys 2026**
+[**Research · ACM RecSys 2026**](https://dl.acm.org/doi/10.1145/3773078.3831761)
 
 Co-first author of *CONGA: Continual Neural Gated Architecture for Long-History Sequential Recommendation*, accepted at ACM RecSys 2026 (Main Track).
 
