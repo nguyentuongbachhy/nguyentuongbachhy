@@ -40,26 +40,6 @@ I enjoy exploring how systems work under the hood, from algorithms and database 
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=go,rust,python&theme=dark" alt="Programming Languages"/>
-
-**Backend & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git&theme=dark" alt="Backend and Infrastructure"/>
-
-**AI & Computing**
-
-<img src="https://skillicons.dev/icons?i=pytorch,cmake,bash&theme=dark" alt="AI and Computing"/>
-
-</div>
-
----
-
 ## Highlights
 
 **Research · ACM RecSys 2026**
@@ -84,8 +64,63 @@ Exploring service architectures, event-driven communication, database performanc
 
 ---
 
+
+## Tech Stack
+
 <div align="center">
 
-*Always learning. Always building. Always optimizing.*
+<table>
+<tr>
+<td align="center">
+  <b>Languages</b>
+  <br/><br/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+</td>
+<td align="center">
+  <b>Backend</b>
+  <br/><br/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/>
+</td>
+<td align="center">
+  <b>Infrastructure</b>
+  <br/><br/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+</td>
+<td align="center">
+  <b>AI & Computing</b>
+  <br/><br/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img
+  height="175"
+  src="https://github-stats-extended.vercel.app/api?username=nguyentuongbachhy&show_icons=true&include_all_commits=true&bg_color=1F1D36&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&border_color=58A6FF"
+  alt="GitHub Statistics"
+/>
+
+<img
+  height="175"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=nguyentuongbachhy&layout=compact&langs_count=8&bg_color=1F1D36&title_color=58A6FF&text_color=E6EDF3&border_color=58A6FF"
+  alt="Most Used Languages"
+/>
 
 </div>
