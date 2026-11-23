@@ -2,97 +2,40 @@
 
 # Nguyen Tuong Bach Hy
 
-### AI Engineer · Backend Engineer · Recommender Systems Researcher
+**Software Engineer · Backend Systems · High-Performance Computing · AI Research**
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+reliable+AI+and+backend+systems;Engineering+high-performance+distributed+services;Researching+efficient+recommender+architectures"
-  alt="Introduction"
-  />
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+reliable+backend+and+distributed+systems;Exploring+Rust%2C+CUDA%2C+and+efficient+inference;Researching+new+recommender+architectures"
+  alt="What I build"
+/>
 
 <a href="https://linkedin.com/in/nguyentuongbachhy">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:nguyentuongbachhy.phuong1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/nguyentuongbachhy">
-  <img src="https://img.shields.io/badge/GitHub-nguyentuongbachhy-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
----
+## A little about me
 
-## About Me
+I enjoy building **reliable, efficient software** and understanding what happens beneath the abstractions—from database and distributed-system design to GPU kernels and model architectures.
 
-I am a **B.Sc. candidate in Artificial Intelligence** at **VNU-HCM University of Science** (expected graduation: November 2026). I work at the intersection of **AI engineering, backend systems, and applied research**, building reliable services and optimizing their performance from algorithms to infrastructure.
+- **Systems:** Go, Rust, C#, PostgreSQL, Redis, messaging, and service performance.
+- **Compute:** CUDA, memory-efficient inference, and low-level optimization.
+- **Research:** Sequential recommendation and efficient neural architectures.
 
-I am currently an **Associate AI Engineer at ELCA Vietnam** and **Software Team Lead at ML&IoT Lab, HCMUT**, where I lead a 10-member development team.
+## Selected work
 
-My main interests include **LLM applications and retrieval-augmented generation (RAG)**, **sequential recommendation**, **efficient CUDA implementations**, and **high-performance distributed backend systems**.
+| Project | What makes it interesting |
+| --- | --- |
+| **[lfm25-inference](https://github.com/nguyentuongbachhy/lfm25-inference)** | A from-scratch **Rust + CUDA** LLM runtime with continuous batching, paged KV cache, and FlashAttention. Benchmarked at **817+ tokens/s** (concurrency 8) on an RTX 5060 Laptop GPU. |
+| **[CONGA](https://github.com/nguyentuongbachhy/CONGA)** | Research on **long-history sequential recommendation**, with custom CUDA kernels and reproducible experiments. Accepted at **ACM RecSys 2026 (Main Track)**; co-first author. |
+| **[Interact-UI-Agent](https://github.com/nguyentuongbachhy/Interact-UI-Agent)** | A **Rust-based MCP server** for browser UI automation, combining Chrome DevTools interaction with session management, authentication, and rate limiting. |
 
----
+## What I'm exploring
 
-## Professional Experience
+**Distributed systems and database internals**, **inference runtimes**, and **recommender architectures**—especially the trade-offs between correctness, scalability, and performance.
 
-### Associate AI Engineer - ELCA Vietnam
-`Aug 2026 – Present` · Full-time
-
-- Built a **9-service enterprise policy chatbot** with Clean Architecture, event-driven ingestion, authentication, per-user data isolation, and hybrid retrieval.
-- Reduced OCR **character error rate (CER) from 7.52% to 0.72%**.
-- Achieved **97.0% Node Recall@10**, **78.7% MRR**, **82.9% nDCG**, and **167.7 ms p95 CPU retrieval latency**.
-
-**Tech:** C# (.NET 10), Python, NATS JetStream, SQL Server, Qdrant, MinIO, Docker.
-
-### Backend Engineer Intern - Bosch Global Software Technologies
-`Jan 2026 – Jul 2026` · Full-time
-
-- Optimized a Rust-based OKR platform to **26,965 RPS** with **500 concurrent clients** and **17.74 ms p99 latency**, while sustaining **1,000 concurrent SSE connections**.
-- Built an event-driven quiz platform achieving **847–1,470 RPS** across benchmarked endpoints with **50 concurrent clients**, asynchronous processing, and SSE streaming.
-
-**Tech:** Rust (Axum), PostgreSQL, Redis, Redpanda, Redis Streams, Docker.
-
-### Backend Developer - ADTECHNOLOGY (ADSPLUS)
-`Aug 2025 – Jan 2026` · Full-time
-
-- Built a distributed ad-tech platform processing approximately **10,000 search terms per day** for multilingual translation, semantic tagging, and automated job orchestration.
-
-**Tech:** Go (Chi), Rust (Axum), gRPC, RabbitMQ, Redis, PostgreSQL, ClickHouse, Docker.
-
-### Software Team Lead - ML&IoT Lab, HCMUT
-`Dec 2025 – Present` · University lab
-
-- Lead a **10-member development team** across architecture, CI/CD, security, and backend engineering.
-- Develop and maintain **[mliotlab.com](https://mliotlab.com)**.
-
-**Tech:** Go (Chi), Rust (Axum), SolidJS, PostgreSQL, Redis Streams, Docker.
-
----
-
-## Research & Publication
-
-### CONGA: Continual Neural Gated Architecture for Long-History Sequential Recommendation
-
-**ACM RecSys 2026 - Main Track**
-
-Le Hoang Vu*, **Nguyen Tuong Bach Hy***, Le Hoai Bac
-
-- Co-developed the **model architecture** for long-history sequential recommendation.
-- Implemented **custom CUDA kernels** for efficient model execution.
-- Built **reproducible evaluation pipelines** for large-scale sequential recommendation experiments.
-
-<sub>* Equal contribution.</sub>
-
----
-
-## Awards & Achievements
-
-### National Champion - ActInSpace 2026 Vietnam
-
-- **1st Place** as Backend Lead of **Bio-Radar** (January 2026).
-- Selected to represent Vietnam at the **International Finale in Bordeaux, France**.
-
-### Mathematics Olympiads
-
-- **Gold Medal** - April 30th Mathematics Olympiad.
-- **Consolation Prize** - Vietnamese Mathematical Olympiad.
+<sub>More details live in the repositories, not in this README.</sub>
